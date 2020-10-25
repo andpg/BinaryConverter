@@ -8,11 +8,11 @@ class MyHome extends StatelessWidget {
         debugShowCheckedModeBanner: false,
         title: 'Flutter Demo',
         theme: ThemeData(
-          primarySwatch: Colors.blue,
+          primarySwatch: Colors.lime,
         ),
         home: Scaffold(
             appBar: AppBar(
-              title: Text('Programación Móvil 2020'),
+              title: Text('Convertidor'),
             ),
             body: Center(child: Converter())));
   }
