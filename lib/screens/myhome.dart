@@ -6,7 +6,7 @@ class MyHome extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Flutter Demo',
+        title: 'Binary Converter',
         theme: ThemeData(
           primarySwatch: Colors.lime,
         ),
