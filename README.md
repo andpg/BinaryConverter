@@ -1,9 +1,9 @@
 # Binary Converter
 
-Código base para la primera aplicación en Flutter, un conversor de binario a decimal
+Conversor Binario > Decimal  y Decimal > Binario
+<br>
+![Alt text](C1.PNG?raw=true "Title")
+<br>
 
-![Alt text](tomaPantalla.png?raw=true "Title")
-objetivo
-
-![Alt text](objetivo.gif?raw=true "Title")
+![Alt text](C2.PNG?raw=true "Title")
 
